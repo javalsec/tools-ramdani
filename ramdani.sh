@@ -27,6 +27,6 @@ pkg install python2
 pkg install git
 pip2 install mechanize requests
 git clone https://github.com/pashayogi/SETAN
-cd
+cd tools-ramdani
 sh ramdani.sh
 fi
