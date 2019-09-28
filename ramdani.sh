@@ -1,13 +1,16 @@
 !/bin/bash
-clear                                                                                   echo "==================================================" | lolcat;
+clear                                                                                   
+echo "==================================================" | lolcat;
 echo "====================ANARCHOXPLOIT=================" | lolcat;
-echo "          Author >> Ramdhani7" | lolcat;                                          echo "          Team   >> AnarchoXploit" | lolcat;
+echo "          Author >> Ramdhani7" | lolcat;                                          
+echo "          Team   >> AnarchoXploit" | lolcat;
 echo "            Sience 2018-2019" | lolcat;
 echo "==================================================" | lolcat;
 date
 echo "==================================================" | lolcat ;
 echo " (1) Dark Fb ( Hack Fb )" | lolcat ;
-echo "============================" | lolcat ;                                          echo " (2) install bahan nya dulu" | lolcat;
+echo "============================" | lolcat ;                                          
+echo " (2) install bahan nya dulu" | lolcat;
 echo "============================" | lolcat ;
 read -p "Pilih nomer =>" lok
 
